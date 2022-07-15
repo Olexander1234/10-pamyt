@@ -1,0 +1,132 @@
+.hed:hover{
+    color:brown;
+
+}
+
+
+.hed{
+    color: red;
+}
+ul{
+   text-decoration: none;
+}
+.hero-sec{
+    color: azure;
+    font-family: 'Imbue';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+letter-spacing: 0.055em;
+
+}
+.hed{
+    color:aqua;
+    font-family: 'Imbue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: 0.055em;
+   
+}
+.logo-span{
+    font-family: 'Imprima';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+letter-spacing: 0.055em;
+
+color: #807C7C;
+
+
+}
+.logo{
+    font-family: 'Imprima';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+letter-spacing: 0.055em;
+color: black;
+}
+.hero{
+    background-color: #2f303a;
+    text-align: center;
+    padding-bottom: 200px;
+    padding-top: 200px;
+
+    
+    background-image: linear-gradient(
+      to right,
+      rgba(47, 48, 58, 0.4),
+      rgba(47, 48, 58, 0.4)
+    ),
+     url("./img/hero.jpg");
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+.market{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.market li + li{
+    margin-left: 50px;
+}
+.market-link{
+    color:#000;
+    position: absolute;
+    width: 1199px;
+    height: 804px;
+    
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: 0.055em;
+    
+}
+li{
+    list-style: none;
+}
+
+ul{ 
+    list-style: none;
+}
+.contairn{
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.section{
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.mmn{
+    background-color: gray;
+}
+.lviv{
+    color:#000;
+    position: absolute;
+    width: 1199px;
+    height: 804px;
+    
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: 0.055em;
+    
+}
