@@ -134,3 +134,37 @@ a{
 .is-hiden{
     margin-top: 300px;
 }
+.svg{
+    margin-right: 150px;
+    padding-right: 150px;
+    width: ;
+}
+.section1{
+    background-image: url(./img/еанікен.jpg);
+    height: 7000px;
+    
+}
+footer{
+    background-color: #2f303a;
+    height: 270px;
+}
+.phone{
+    color: azure;
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0.055em;
+}
+.social-network-list{
+    display: flex;
+    fill: azure;
+    color: azure;
+}
+.social-network-list li + li{
+    margin-left: 15px;
+}
+.social-link{
+    fill: azure;
+}
