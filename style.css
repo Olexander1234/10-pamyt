@@ -1,3 +1,4 @@
+
 .hed:hover{
     color:brown;
 
@@ -147,6 +148,8 @@ a{
 footer{
     background-color: #2f303a;
     height: 270px;
+    
+
 }
 .phone{
     color: azure;
@@ -167,4 +170,68 @@ footer{
 }
 .social-link{
     fill: azure;
+}
+.logo-span3{
+    font-family: 'Imprima';
+    font-style: normal;
+    font-weight: 150;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.055em;
+    color:aliceblue;
+    display: flex; 
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: ;
+    width: 100px;
+    top: 50px;
+}
+.pop{
+    text-align: center;
+    align-items: center;
+    width: 50px;
+    justify-content: center;
+    margin-left: 400px;
+    justify-content: center;
+}
+.qwerty{
+    justify-content: center;
+    margin-left: 345px;
+    margin-top: -115px
+
+}
+.text{
+    font-family: 'Imprima';
+    font-style: normal;
+    font-weight: 3000;
+    font-size: 30px;
+    line-height: 32px;
+    letter-spacing: 0.055em;
+    color:aliceblue;
+   justify-content: center;
+}
+.join-link{
+    justify-content: center;
+    margin-left: 600px;
+    margin-top: -100px;
+}
+.your{
+    font-family: 'Imprima';
+    font-style: normal;
+    font-weight: 3000;
+    font-size: 30px;
+    line-height: 32px;
+    letter-spacing: 0.055em;
+    color:aliceblue;
+}
+.join-type{
+    font-family: 'Imprima';
+    font-style: normal;
+    font-weight: 3000;
+    font-size: 30px;
+    line-height: 32px;
+    letter-spacing: 0.055em;
+    color:aliceblue;
+
 }
